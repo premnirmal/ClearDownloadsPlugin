@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "ClearDownloads Plugin",
   "description": "This extension will allow you to clear your downloads with one click",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage_url": "https://github.com/premnirmal/ClearDownloadsPlugin",
   "icons": { "16": "images/icon16.png",
     "48": "images/icon48.png",
@@ -16,7 +16,6 @@
       "default_popup": "popup.html"
     },
     "permissions": [
-      "browsingData",
-      "notifications"
+      "browsingData"
     ]
   }
