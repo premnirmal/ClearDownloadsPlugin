@@ -1,4 +1,4 @@
-[![] (images/icon.png)](https://chrome.google.com/webstore/detail/cleardownloads-plugin/okkpnkhmlpilfilmflchpbmkbcegiaeo)
+[![](images/icon.png)](https://chrome.google.com/webstore/detail/cleardownloads-plugin/okkpnkhmlpilfilmflchpbmkbcegiaeo)
 
 # ClearDownloadsPlugin
 
