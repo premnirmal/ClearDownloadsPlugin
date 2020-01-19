@@ -1,6 +1,6 @@
-[![](icon.png)]
+![](icon.png)
 
-[![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4nqTh)](coming-soon)  [![](https://images.sftcdn.net/images/t_app-logo-l,f_auto,dpr_auto/p/f484e040-96d2-11e6-9a72-00163ed833e7/1808152659/mozilla-firefox-firefox-logo-2017.png)](https://addons.mozilla.org/en-US/firefox/addon/clear-downloads-plugin/)  [![](https://www.google.com/chrome/static/images/chrome-logo.svg)](https://chrome.google.com/webstore/detail/cleardownloads-plugin/okkpnkhmlpilfilmflchpbmkbcegiaeo)
+<a href="https://microsoftedge.microsoft.com/addons/detail/hbdgliidgafecokdbbhnmdppdejacjdo?hl=en-US"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Microsoft_Edge_logo_%282019%29.svg/128px-Microsoft_Edge_logo_%282019%29.svg.png" width="100"/></a>  <a href="https://addons.mozilla.org/en-US/firefox/addon/clear-downloads-plugin/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/136px-Firefox_logo%2C_2019.svg.png" width="100"/></a>  <a hrf="https://chrome.google.com/webstore/detail/cleardownloads-plugin/okkpnkhmlpilfilmflchpbmkbcegiaeo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/128px-Google_Chrome_icon_%28September_2014%29.svg.png" width="100"/></a>
 
 # ClearDownloadsPlugin
 
@@ -11,7 +11,7 @@ This simple extension allows you to clear your downloads with one click :)
 
 ## Install
 
-- [Edge](coming-soon)
+- [Edge](https://microsoftedge.microsoft.com/addons/detail/hbdgliidgafecokdbbhnmdppdejacjdo?hl=en-US)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/clear-downloads-plugin/)
 - [Chrome](https://chrome.google.com/webstore/detail/cleardownloads-plugin/okkpnkhmlpilfilmflchpbmkbcegiaeo)
 
